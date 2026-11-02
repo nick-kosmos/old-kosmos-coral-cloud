@@ -61,8 +61,6 @@
         <allowPause>true</allowPause>
         <fields>
             <name>PromptGenerationResult</name>
-            <fieldText
-            >&lt;p&gt;{!Generate_Personalized_Schedule.promptResponse}&lt;/p&gt;</fieldText>
             <fieldType>DisplayText</fieldType>
             <styleProperties>
                 <verticalAlignment>

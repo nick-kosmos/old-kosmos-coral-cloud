@@ -281,10 +281,6 @@
         <itemInstances>
             <fieldInstance>
                 <fieldInstanceProperties>
-                    <name>generativePromptTemplate</name>
-                    <value>Generate_Guest_Reviews_Summary</value>
-                </fieldInstanceProperties>
-                <fieldInstanceProperties>
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
